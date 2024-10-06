@@ -1,2 +1,3 @@
-# rmz01.github.io
-My page
+# My portfolio
+
+#### Technical Skills: C++, C, Ruby, SQL, R.
